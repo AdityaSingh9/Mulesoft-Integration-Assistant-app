@@ -1,0 +1,26 @@
+The app will help Mulesoft developers to solve following Problems using AI.
+
+1.Problem Solving and Troubleshooting:
+2.Design and Architecture Guidance:
+3.Code Reviews and Optimization:
+4.Understanding MuleSoft Components:
+5.Integration Design Patterns:
+6.API Specification and Documentation:
+7.Data Transformation and Mapping:
+8.Security Best Practices:
+
+It uses Api token of Open API and generates the response based on the prompt provided .
+user can either ask question directly or can upload files and ask question related to that .
+
+Right now the app supprts only xml , csv , txt , json files.
+
+****user need to provide there open AI api key and engine details****
+
+
+
+
+
+
+
+technology used :
+python with streamlit , open AI 
